@@ -1,0 +1,24 @@
+.wrapper{
+    max-width: 1089px;
+    margin: auto;
+    height: 500px;
+    background-color: azure;
+}
+.header{
+    max-width: 1089px;
+    margin: auto;
+    height: 50px;
+    background-color: aqua;
+}
+.section{
+    max-width: 1089px;
+    margin: auto;
+    height: 400px;
+    background-color: bisque;
+}
+.footer{
+    max-width: 1089px;
+    margin: auto;
+    height: 50px;
+    background-color: blueviolet;
+}
